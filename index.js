@@ -10,7 +10,7 @@ client.on('ready', () => {
   console.log(`${client.user.username} starting...`);
   console.log(`Serving ${client.guilds.size} guilds.`);
   console.log(`${client.users.size} users`);
-  console.log('🌮Développé par Sinaro🌮');
+  console.log('🌮Développé par Sxlim🌮');
 
   
 client.on('message', function (message) {
